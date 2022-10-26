@@ -51,18 +51,21 @@ SMX-B MP08
 ## 4.8.- Crea un usuari anomenat admin2XYZ i fical al grup usuaris.
 ![imatge](4.8.png)
 ## 4.9.- Comparteix un fitxer de adminXYZ a admin2XYZ i mostra com l'admin2XYZ pot veure i descarregar el fitxer.
-
+![imatge](4.9.png)
 ## 4.10.- Esborra la carpeta Learn more about owncloud.
-
+![imatge](4.10.png)
 ## 4.11.- Recupera la carpeta Learn more about owncloud.
-
-## 4.12.- Com a usuariXYZ crea una carpeta nova anomenada shared i comparteix-la amb l'usuari usuari2XYZ.
-
+![imatge](4.11.png)
+## 4.12.- Com a adminXYZ crea una carpeta nova anomenada shared i comparteix-la amb l'usuari admin2XYZ.
+![imatge](4.12.png)
 ## 4.13.- Entra a Market instal·la dues aplicacions que no estiguin ja instal·lades i explica què fan i com funcionen.
-
+Esta aplicacio comparteix archius fent servir cifrat. 
+![imatge](4.13.1.png)
+Esta aplicacio serveix per a tindre una interfaz de calendari de usuari para el servidor CalDAv de owncloud.
+![imatge](4.13.2.png)
 ## 4.14.- Crearem una carpeta nova per emmagatzematge a Owncloud, la carpeta serà /media/publicXYZ on XYZ són les teves inicials i apareixerà amb el nom de public als usuaris.
-
-## 4.15.- Connectarem la carpeta publicXYZ com emmagatzematge local, tal i com s'indica aquí. Tots els usuaris tindran accés a la carpeta.
+![imatge](4.14.png)
+## 4.15.- Connectarem la carpeta adminXYZ com emmagatzematge local, tal i com s'indica aquí. Tots els usuaris tindran accés a la carpeta.
 
 ## 4.16.- Un usuari normal pujarà un fitxer a la carpeta public.
 
